@@ -9,4 +9,14 @@ with spring also in our company we cannot open public website... so putting this
 
 2. In heroku if you run it will not run because we have request mapping value=showNseData in the end like
 
-https://nsestock-without-cors.herokuapp.com/showNseData
+
+
+https://nsestock-witout-cors-new-cat.herokuapp.com/category/cnxPharma
+
+
+https://nsestock-witout-cors-new-cat.herokuapp.com/category/nifty
+
+
+https://nsestock-witout-cors-new-cat.herokuapp.com/category/cnxEnergy
+(this link comes from latestPrices1(this.eventUrl+category).... this url is running in heroku
+
