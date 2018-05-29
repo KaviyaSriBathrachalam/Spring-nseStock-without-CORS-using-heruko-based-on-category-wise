@@ -1,7 +1,6 @@
 # Spring-nseStock-without-CORS-using-heruko
 
-
-SPRING NSESTOCK WITHOUT CORS   1.GIT(controller class) -> 2.HEROKU  -> 3. STSCKBLITZ(service class)
+NSESTOCK-WITHOUT-CORS-NEW-CAT    1.GIT(controller class) -> 2.HEROKU  -> 3. STSCKBLITZ(service class)
 
 NSESTOCK will run only with cors plugin this is connected with web store... 
 without cors plugin from online , we are writing a spring application and in that putting nse website link in controller class.
