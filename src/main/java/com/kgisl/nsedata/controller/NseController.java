@@ -38,8 +38,8 @@ public class NseController {
 		//   String data = String.valueOf(nseDatas);
 		//   System.out.println(data);
 		  return nseDatas;
-		
-		//   model.addAttribute("nseDatas", nseDatas);
+		  fjbkfnhbjnnnnhkjtjtttttttttttttttttttttttttttttttttttttttttttttttttt
+		//   model.addAttribute("nseDatas", nseDatas);gi
 		//   return "server"; // returns a jsp simply looping through the list and displaying.
 		}
 
