@@ -18,3 +18,8 @@ https://nsestock-witout-cors-new-cat.herokuapp.com/category/nifty
 https://nsestock-witout-cors-new-cat.herokuapp.com/category/cnxEnergy
 (this link comes from latestPrices1(this.eventUrl+category).... this url is running in heroku
 
+
+To run
+
+1. spring-boot:run
+
